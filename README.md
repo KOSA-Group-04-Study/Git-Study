@@ -50,6 +50,6 @@
 | 스터디 회차 | [변현진](https://github.com/shinbm44) | [김준석](https://github.com/JUN1515) | [안은아](https://github.com/EunaAhn) | [길재현](https://github.com/wogus4048) |
 | :---: | :---: | :---: | :---: | :---: |
 | 1주차 | [1주차 링크](https://velog.io/@onionlily123/1회차.-JVM은-무엇이며-자바-코드는-어떻게-실행하는-것인가) |[1주차 링크](https://quasar-tarsier-bbb.notion.site/1-9336a77a83e34c3398fd15a44cbe5cc8?pvs=4)| [1주차 링크](https://hypnotic-furniture-843.notion.site/Git-1-9c0f3c834f9b4b0a90ef9e09f7ae811b?pvs=4)| [1주차 링크](https://keeeeeepgoing.tistory.com/268) |
-| 2주차 | [2주차 링크](https://velog.io/@onionlily123/3회차.-연산자)  | [2주차 링크](https://velog.io/@ssstopeun/Study-3.-%EC%97%B0%EC%82%B0%EC%9E%90)| [2주차 링크](https://hypnotic-furniture-843.notion.site/Git-2-9145ef7221044e24931fb24d7dbbef44?pvs=4) | [2주차 링크](https://sh-hyun.tistory.com/61) |
+| 2주차 | [2주차 링크](https://velog.io/@onionlily123/3회차.-연산자)  | [2주차 링크](https://zrr.kr/eOlU)| [2주차 링크](https://hypnotic-furniture-843.notion.site/Git-2-9145ef7221044e24931fb24d7dbbef44?pvs=4) | [2주차 링크](https://sh-hyun.tistory.com/61) |
 | 3주차 | [3주차 링크](https://velog.io/@onionlily123/5회차.-클래스)  | [3주차 링크](https://velog.io/@ssstopeun/Study-5.-%ED%81%B4%EB%9E%98%EC%8A%A4) | [3주차 링크](https://sh-hyun.tistory.com/64) | [3주차 링크](https://sh-hyun.tistory.com/64)  |
 | 4주차 | [4주차 링크](https://velog.io/@onionlily123/7회차.-패키지) | [4주차 링크](https://velog.io/@ssstopeun/Study-7.-%ED%8C%A8%ED%82%A4%EC%A7%80)  | [4주차 링크](https://sh-hyun.tistory.com/66)| [4주차 링크](https://sh-hyun.tistory.com/66) |
